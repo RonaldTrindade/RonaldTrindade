@@ -13,5 +13,5 @@
 </div>
 
 
-![snake-gif](htpps://github.com/RonaldTrindade/RonaldTrindade/blob/output/github-contribution-grid-snake.svg)
+
 
