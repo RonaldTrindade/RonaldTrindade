@@ -27,8 +27,8 @@
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-007ACC?style=for-the-badge&logo=Spring&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/koklin-4285F4?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -38,7 +38,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
+![Intellij](https://img.shields.io/badge/Intellij-4285F4?style=for-the-badge&logo=Intellij&logoColor=white)&nbsp;
 &nbsp;
 &nbsp;
 
