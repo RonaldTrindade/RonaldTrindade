@@ -30,6 +30,8 @@
 ![Spring](https://img.shields.io/badge/Spring-007ACC?style=for-the-badge&logo=Spring&logoColor=white)&nbsp;
 ![Php](https://img.shields.io/badge/Php-4285F4?style=for-the-badge&logo=Php&logoColor=white)&nbsp;
 
+![Laravel](https://img.shields.io/badge/Laravel-4285F4?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
+
 #### Databases:
 
 ![Mysql](https://img.shields.io/badge/Mysql-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
