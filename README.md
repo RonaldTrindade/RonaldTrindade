@@ -28,7 +28,7 @@
 #### Studying in this moment:
 
 ![Spring](https://img.shields.io/badge/Spring-007ACC?style=for-the-badge&logo=Spring&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/koklin-4285F4?style=for-the-badge&logo=Php&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/Php-4285F4?style=for-the-badge&logo=Php&logoColor=white)&nbsp;
 
 #### Databases:
 
